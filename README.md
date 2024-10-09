@@ -12,3 +12,6 @@ This project demonstrates an interactive *Map Animation* where a pin moves acros
 - *HTML5* for structuring the map and pin.
 - *CSS3* for styling and animation effects.
 - *JavaScript* for controlling the movement of the pin and animation logic.
+
+
+![map_point](https://github.com/user-attachments/assets/4c51ce70-ec0e-472c-885f-717e934aeb6f)
